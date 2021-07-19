@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aaron Reynolds
-- 👀 I’m interested in software development, game development, and cybersecurity 
 - 🌱 I’m currently learning software engineering and cybersecurity techniques at ODU
 - 💞️ I’m looking to collaborate on any software development projects that help me gain more knowledge and experience
 
