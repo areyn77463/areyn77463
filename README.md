@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Reynolds</h1>
 <h3 align="center">I am a recent Computer Science graduate from Old Dominion University.</h3>
 
-- 🌱 I’m currently learning **AWS, OpenCV, Flask**
+- 🌱 I’m currently learning **AWS, Flask**
 
 - 📫 How to reach me **ajr2934@outlook.com**
 
