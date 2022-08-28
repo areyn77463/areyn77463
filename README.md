@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Reynolds</h1>
 <h3 align="center">I am a recent Computer Science graduate from Old Dominion University.</h3>
 
-- 🌱 I’m currently writing a connect 4 CLI application using minimax algorithm and making my first contribution to a github open source repository.
+- 🌱 I’m currently working with reactjs as Technology Apprentice with MAXX Portential and learning Go.
 
 - 📫 How to reach me **ajr2934@outlook.com**
 
