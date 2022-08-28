@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Reynolds</h1>
-<h3 align="center">I am a recent Computer Science graduate from Old Dominion University.</h3>
+<h3 align="center">I am a Technology Apprentice at MAXX Potential.</h3>
 
-- 🌱 I’m currently working with reactjs as Technology Apprentice with MAXX Portential and learning Go.
+- 🌱 I’m currently working with reactjs for a work project and learning Go in my spare time.
 
 - 📫 How to reach me **ajr2934@outlook.com**
 
