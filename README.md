@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CHALK Coaching](https://chalkcoaching.com/)
 
-- 🌱 I’m currently learning **React JS, Tkinter, Pandas, NumPy**
+- 🌱 I’m currently learning **React JS, Tkinter, Selenium, Spring Boot**
 
 - 👯 I’m looking to collaborate on **any open source projects**
 
