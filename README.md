@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ajr2934@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Fhy_XMrXCwp3bT_5qIw8t2mWDk_HIMfa/edit](https://docs.google.com/document/d/1Fhy_XMrXCwp3bT_5qIw8t2mWDk_HIMfa/edit)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1Fhy_XMrXCwp3bT_5qIw8t2mWDk_HIMfa/edit?usp=sharing&ouid=116271954776123412726&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
